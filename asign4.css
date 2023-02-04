@@ -1,0 +1,33 @@
+
+        #Firstpara{ 
+         background-color: rgb(232, 149, 149);
+         border: 2px solid rgb(37, 37, 6);
+         border-radius: 5px;
+        }
+
+        #SecondPara{
+            background-color: blanchedalmond;
+            height: 100px;
+            width: 455px;
+            border: 2px solid rgb(8, 8, 98);
+            border-left: 2px solid rgb(189, 229, 12);
+            border-right: 2px solid rgb(17, 205, 67);
+            border-bottom: 2px solid rgb(13, 229, 240);
+             border-top-right-radius: 4px;
+             border-top-left-radius: 4px;
+             border-bottom-left-radius: 4px;
+             border-bottom-right-radius: 4px;
+
+        }
+
+        #ThirdPara{
+            background-color: aquamarine;
+            height: 500px;
+            width: 455px;
+             /* background-image: url(https://www.codewithharry.com/_next/image/?url=%2Fimg%2Flogo-blue.png&w=96&q=75); */
+             border: 2px solid rgb(18, 4, 60);
+             background-repeat: no-repeat;/*repreat in x and y direction will make it repreat image in x and y direction*/
+             background-position: center center;
+             border-radius: 5px;
+
+        }

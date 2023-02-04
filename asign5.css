@@ -1,0 +1,21 @@
+.parallax {
+background-image: url(https://source.unsplash.com/1600x900/?girl);
+min-height:500px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+
+}
+.para2{
+    height: 1000px;
+    background-color: rgba(207, 18, 240, 0.88);
+    font-size: 20px;
+    text-align: center;
+    padding: 50px;
+}
+p{
+    color: rgb(9, 163, 163);
+    
+    
+}

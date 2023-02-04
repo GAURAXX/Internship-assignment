@@ -1,0 +1,66 @@
+h2{
+    color: rgb(5, 5, 84);
+    background-color: rgb(121, 181, 254);
+    border-radius: 4px;
+    height: 30px;
+     width: 600px; 
+    font-family:cursive, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Tahoma, Geneva, Verdana, sans-serif 'Times New Roman', Times, serif;
+    padding-left: 390px;
+    
+    border: 1px solid rgb(1, 20, 55);
+
+  }
+
+#m1{
+    color: rgb(215, 236, 236);
+    font-size:20px;
+    padding-left: 35px;
+    padding-top: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-image:url(http://hd.wallpaperswide.com/thumbs/spider_man_into_the_spider_verse_black-t2.jpg);
+    height: 300px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+#m2{
+    color: rgb(215, 236, 236);
+    font-size:20px;
+    padding-left: 35px;
+    padding-top: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-image:url(http://hd.wallpaperswide.com/thumbs/the_dark_knight_rises-t2.jpg);
+    height: 300px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+#m3{
+    color: rgb(215, 236, 236);
+    font-size:20px;
+    padding-left: 35px;
+    padding-top: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-image:url(http://hd.wallpaperswide.com/thumbs/joker_2019_joaquin_phoenix-t2.jpg);
+    height: 300px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+#m4{
+    color: rgb(2, 33, 33);
+    font-size:20px;
+    padding-left: 35px;
+    padding-top: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-image:url(http://hd.wallpaperswide.com/thumbs/pirates_of_the_caribbean_5_dead_men_tell_no_tales-t2.jpg);
+    height: 300px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+  
